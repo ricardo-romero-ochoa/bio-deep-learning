@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-author:
+authors:
 - family-names: "Romero"
   given-names: "Ricardo"
   orcid: "https://orcid.org/0000-0002-4589-2984"
-title: "Bioactivity Deep Learning Classification Model"
+title: "Bioactivity Classification Model"
 version: 1.0.0
 doi: 10.5281/zenodo.12682925
 date-released: 2024-07-07
